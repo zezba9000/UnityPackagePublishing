@@ -1,0 +1,20 @@
+{
+  "name": "com.zezba9000.testpackage",
+  "displayName": "Test NPM Package",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Test NPM Package Desccription",
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zezba9000/UnityPackagePublishing.git"
+  },
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
+}
