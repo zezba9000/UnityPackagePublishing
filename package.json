@@ -1,7 +1,7 @@
 {
   "name": "com.zezba9000.testpackage",
   "displayName": "Test NPM Package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "Test NPM Package Desccription",
   "keywords": [
@@ -15,6 +15,6 @@
     "com.unity.ugui": "1.0.0"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/@zezba9000"
   }
 }
