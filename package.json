@@ -1,7 +1,7 @@
 {
   "name": "com.zezba9000.testpackage",
   "displayName": "Test NPM Package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2019.4",
   "description": "Test NPM Package Desccription",
   "keywords": [
